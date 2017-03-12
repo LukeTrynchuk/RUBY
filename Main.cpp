@@ -1,5 +1,5 @@
 #include <iostream>					//Add the io capabilities
-#incluse <string>
+#include <string>
 
 void main()
 {
